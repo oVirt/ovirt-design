@@ -1,6 +1,6 @@
 # Object Details
 
-![Masthead](img/oVirt-ObjectDetails-OptionA.png)
+![Masthead](https://ovirt.github.io/ovirt-design/common/img/oVirt-ObjectDetails-OptionA.png)
 
 1. Breadcrumb Bar
   - Breadcrumb
