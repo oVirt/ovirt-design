@@ -10,7 +10,8 @@
   * [VM - Dashboard](https://ovirt.github.io/ovirt-design/admin-ui/compute/vm-dashboard)
   * [Migrate VMs](https://ovirt.github.io/ovirt-design/admin-ui/compute/migrate-vms)
 
-## User Portal
+## [VM Portal](/vm-portal/overview.md)
+  * [UI Redesign](/vm-portal/redesign/redesign.md)
 
 ## Common Components
 *  [Object Details](https://ovirt.github.io/ovirt-design/common/object-details)
