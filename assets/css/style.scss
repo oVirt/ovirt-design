@@ -13,12 +13,12 @@ body {
 }
 
 a, footer a {
-  color: #61b60e;
+  color: #00659C;
   text-decoration: none;
 }
 
 a:hover, a:focus {
-  color: #6ece10;
+  color: #00659C;
   text-decoration: underline;
 }
 
@@ -139,9 +139,9 @@ footer p {
 }
 
 #header_wrap {
-  background-color: #61b60e;
-  background-image: none;
-  border-bottom: 4px solid #4e9a06;
+  background-color: #000;
+  background-image: url(../img/ovirt_masthead_bg.png);
+  border-top: 4px solid #00659C;
 }
 
 #footer_wrap {
