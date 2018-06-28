@@ -142,11 +142,12 @@ footer p {
   background-color: #000;
   background-image: url(../img/ovirt_masthead_bg.png);
   border-top: 4px solid #00659C;
+  background-size: cover;
 }
 
 #footer_wrap {
   background-color: #fff;
-  border-top: 1px solid #b0da86;
+  border-top: 1px solid #00659C;
 }
 
 #header_wrap .inner {
