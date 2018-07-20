@@ -5,11 +5,11 @@ Users will have the ability to manage snapshots for each VM.
 Within the details page, the user will be able to see a card that lists all of the snapshots for the VM.
 ![snapshots](img/snapshots.png)
 
-The user can hover over the information icon to view a preview and some high level details about that snapshot.
+The user can hover over the information icon to view some high level details about that snapshot.
 ![snapshotdetails](img/snapshot-details.png)
 
 ### Restore Snapshot
-If the user wants to restore a snapshot, they will be given a confirmation modal along with an option to create a new snapshot based on their current state before restoring.
+If the user wants to restore a snapshot, they will be given a confirmation modal before proceeding.
 ![restore](img/restore.png)
 
 ![restoreconfirmation](img/restore-confirmation.png)
