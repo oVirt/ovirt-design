@@ -14,3 +14,9 @@ In come cases, edits won't be applied until the next run of the VM. The user wil
 ![nextrunconfirmation](img/next-run-confirmation.png)
 
 ![nextrunnotification](img/next-run-notification.png)
+
+### Option to Hot Plug Changes
+In a few cases, the user can choose to Hot Plug changes to the configuration. In this case, a confirmation should be given to the user to choose whether they want to hot plug the changes or want until the next reboot of the VM to apply the changes.
+![hotplugconfirmation](img/hot-plug-confirmation.png)
+
+If the user chooses to Apply after Reboot, they will get a similar informational inline notification as with the next run configuration changes.
