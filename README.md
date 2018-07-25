@@ -10,6 +10,7 @@
   * [Migrate VMs](https://ovirt.github.io/ovirt-design/admin-ui/compute/migrate-vms)
 
 ## User Portal
+  * [Login](https://ovirt.github.io/ovirt-design/user-portal/login)
 
 ## Common Components
 *  [Object Details](https://ovirt.github.io/ovirt-design/common/object-details)
