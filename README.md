@@ -9,6 +9,6 @@
   * [VM - Dashboard](https://ovirt.github.io/ovirt-design/admin-ui/compute/vm-dashboard)
 
 ## User Portal
-
+  * [Virtual Machines List and Details](https://ovirt.github.io/ovirt-design/user-portal/virtual-machine-details)
 ## Common Components
 *  [Object Details](https://ovirt.github.io/ovirt-design/common/object-details)
