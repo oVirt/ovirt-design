@@ -8,6 +8,7 @@ Editing the name and description is contained in the first card:
 ### Edit Basic Details
 Editing the basic details about the VM is in the 2nd card. This includes changing how much CPU and Memory resources should be given to this VM:
 ![editvmbasic](img/edit-vm-basic.png)
+![editvmbasic2](img/edit-vm-basic2.png)
 
 ### Next Run Configuration Changes
 In come cases, edits won't be applied until the next run of the VM. The user will be notified via a confirmation modal along with a notification until a reboot is done.
