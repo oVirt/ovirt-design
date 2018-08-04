@@ -22,6 +22,8 @@ Within the edit mode of the snapshots card, the user can Create a Snapshot.
 
 ![createsnapshot3](img/create-snapshot3.png)
 
+![createsnapshot4](img/create-snapshot4.png)
+
 ### Delete Snapshot(s)
 Deleting a snapshot should give the user a confirmation dialog. In some cases, other dependent snapshots would be deleted as well and this should be clear to the user.
 ![deletesnapshot](img/delete-snapshot.png)
