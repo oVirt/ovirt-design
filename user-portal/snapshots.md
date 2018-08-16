@@ -15,14 +15,12 @@ If the user wants to restore a snapshot, they will be given a confirmation modal
 ![restoreconfirmation](img/restore-confirmation.png)
 
 ### Create Snapshot
-Within the edit mode of the snapshots card, the user can Create a Snapshot.
+One of the options in the Snapshots card is for the user to Create a Snapshot.
 ![createsnapshot](img/create-snapshot.png)
 
 ![createsnapshot2](img/create-snapshot2.png)
 
 ![createsnapshot3](img/create-snapshot3.png)
-
-![createsnapshot4](img/create-snapshot4.png)
 
 ### Delete Snapshot(s)
 Deleting a snapshot should give the user a confirmation dialog. In some cases, other dependent snapshots would be deleted as well and this should be clear to the user.
