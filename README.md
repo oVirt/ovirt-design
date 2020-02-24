@@ -5,6 +5,7 @@
   * [Notifications](https://ovirt.github.io/ovirt-design/admin-ui/framework/notifications)
 * Compute
   * [Cluster - Dashboard](https://ovirt.github.io/ovirt-design/admin-ui/compute/cluster-dashboard)
+  * [Upgrade Cluster](https://ovirt.github.io/ovirt-design/admin-ui/compute/upgrade-cluster)
   * [Host - Network Interfaces](https://ovirt.github.io/ovirt-design/admin-ui/compute/host-network-interfaces)
   * [Host - Dashboard](https://ovirt.github.io/ovirt-design/admin-ui/compute/host-dashboard)
   * [VM - Dashboard](https://ovirt.github.io/ovirt-design/admin-ui/compute/vm-dashboard)
@@ -12,6 +13,8 @@
 
 ## User Portal
 * [Edit Virtual Machine](https://ovirt.github.io/ovirt-design/user-portal/edit-virtual-machine)
-
+* [Snapshots](https://ovirt.github.io/ovirt-design/user-portal/snapshots)
+* [Login](https://ovirt.github.io/ovirt-design/user-portal/login)
+  
 ## Common Components
 *  [Object Details](https://ovirt.github.io/ovirt-design/common/object-details)
