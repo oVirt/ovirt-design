@@ -12,9 +12,10 @@
   * [Migrate VMs](https://ovirt.github.io/ovirt-design/admin-ui/compute/migrate-vms)
 
 ## User Portal
+* [Virtual Machines List and Details](https://ovirt.github.io/ovirt-design/user-portal/virtual-machine-details)
 * [Edit Virtual Machine](https://ovirt.github.io/ovirt-design/user-portal/edit-virtual-machine)
 * [Snapshots](https://ovirt.github.io/ovirt-design/user-portal/snapshots)
 * [Login](https://ovirt.github.io/ovirt-design/user-portal/login)
-  
+
 ## Common Components
 *  [Object Details](https://ovirt.github.io/ovirt-design/common/object-details)
