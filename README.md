@@ -17,6 +17,9 @@
 * [Snapshots](https://ovirt.github.io/ovirt-design/user-portal/snapshots)
 * [Login](https://ovirt.github.io/ovirt-design/user-portal/login)
 * [Console](https://ovirt.github.io/ovirt-design/user-portal/console)
+* [Create New VM](https://ovirt.github.io/ovirt-design/user-portal/create-new-vm)
+* [Filter and Sort](https://ovirt.github.io/ovirt-design/user-portal/filter-and-sort)
+* [Pools](https://ovirt.github.io/ovirt-design/user-portal/pools)
 
 ## Common Components
 *  [Object Details](https://ovirt.github.io/ovirt-design/common/object-details)
