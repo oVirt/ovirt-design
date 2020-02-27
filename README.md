@@ -16,6 +16,7 @@
 * [Edit Virtual Machine](https://ovirt.github.io/ovirt-design/user-portal/edit-virtual-machine)
 * [Snapshots](https://ovirt.github.io/ovirt-design/user-portal/snapshots)
 * [Login](https://ovirt.github.io/ovirt-design/user-portal/login)
+* [Console](https://ovirt.github.io/ovirt-design/user-portal/console)
 
 ## Common Components
 *  [Object Details](https://ovirt.github.io/ovirt-design/common/object-details)
