@@ -1,4 +1,4 @@
-# Making Edits to a Virtual Machine
+# Making Basic Edits to a Virtual Machine
 The user can make edits to any portion of the VM details by interacting with each card.
 
 ### Edit Name and Description
@@ -21,3 +21,13 @@ In a few cases, the user can choose to Hot Plug changes to the configuration. In
 ![hotplugconfirmation](img/hot-plug-confirmation.png)
 
 If the user chooses to Apply after Reboot, they will get a similar informational inline notification as with the next run configuration changes.
+
+# Making Advanced Edits to a Virtual Machine
+The user can make edits to the advanced options of the VM by expanding the 'Advanced options' section of the VM details card. 
+
+### Edit Advanced Options
+The user clicks on the caret to expand the advanced options for the VM settings. 
+![editvmadvanced1](img/edit-vm-advanced-1.png)
+The user can select different options from the dropdowns in the expanded section. 
+![editvmadvanced2](img/edit-vm-advanced-2.png)
+To view the full edit VM design documentation you can view it and comment on it here: https://docs.google.com/document/d/1PuaaeEsPbUlFaFoh9lCvxkw3gOh8-wQ7vHhdYBFFVfI/edit?usp=sharing
