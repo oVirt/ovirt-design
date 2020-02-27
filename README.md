@@ -21,6 +21,7 @@
 * [Filter and Sort](https://ovirt.github.io/ovirt-design/user-portal/filter-and-sort)
 * [Pools](https://ovirt.github.io/ovirt-design/user-portal/pools)
 * [Error Screen](https://ovirt.github.io/ovirt-design/user-portal/error-screen)
+* [NICs and Disks](https://ovirt.github.io/ovirt-design/user-portal/nics-and-disks)
 
 ## Common Components
 *  [Object Details](https://ovirt.github.io/ovirt-design/common/object-details)
