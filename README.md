@@ -34,5 +34,5 @@
   * [Masthead and Vertical Navigation](https://ovirt.github.io/ovirt-design/admin-ui/patternfly4/masthead-and-vertical-navigation)
 
 * User Portal
-  * [Cluster - Dashboard](https://ovirt.github.io/ovirt-design/user-portal/patternfly4/cluster-dashboard)
+  * [Console](https://ovirt.github.io/ovirt-design/user-portal/patternfly4/consolepf4)
 
