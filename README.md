@@ -35,4 +35,8 @@
 
 * User Portal
   * [Console](https://ovirt.github.io/ovirt-design/user-portal/patternfly4/consolepf4)
+  * [Homepage](https://ovirt.github.io/ovirt-design/user-portal/patternfly4/homepagepf4)
+  * [Create New VM](https://ovirt.github.io/ovirt-design/user-portal/patternfly4/create-new-vm-pf4)
+  * [VM Dashboard](https://ovirt.github.io/ovirt-design/user-portal/patternfly4/vm-dashboard-pf4)
+  * [Masthead](https://ovirt.github.io/ovirt-design/user-portal/patternfly4/mastheadpf4)
 
