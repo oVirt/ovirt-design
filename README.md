@@ -23,6 +23,7 @@
 * [Error Screen](https://ovirt.github.io/ovirt-design/user-portal/error-screen)
 * [NICs and Disks](https://ovirt.github.io/ovirt-design/user-portal/nics-and-disks)
 * [Responsiveness](https://ovirt.github.io/ovirt-design/user-portal/responsiveness)
+* [User Settings](https://ovirt.github.io/ovirt-design/user-portal/user-settings)
 
 
 ## Common Components
