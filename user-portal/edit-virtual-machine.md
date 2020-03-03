@@ -25,9 +25,13 @@ If the user chooses to Apply after Reboot, they will get a similar informational
 # Making Advanced Edits to a Virtual Machine
 The user can make edits to the advanced options of the VM by expanding the 'Advanced options' section of the VM details card. 
 
-### Edit Advanced Options
+### Expanding Advanced Options 
 The user clicks on the caret to expand the advanced options for the VM settings. 
 ![editvmadvanced1](img/edit-vm-advanced-1.png)
+
+### Selecting Advanced Options
 The user can select different options from the dropdowns in the expanded section. 
 ![editvmadvanced2](img/edit-vm-advanced-2.png)
+
+### Edit VM Design Documentation
 To view the full edit VM design documentation you can view it and comment on it here: https://docs.google.com/document/d/1PuaaeEsPbUlFaFoh9lCvxkw3gOh8-wQ7vHhdYBFFVfI/edit?usp=sharing
