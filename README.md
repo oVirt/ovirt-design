@@ -1,4 +1,5 @@
-## Admin Portal (https://drive.google.com/drive/folders/1lPEFmvFoslgBYuBLiLE1DP9RW7aC8GAl?usp=sharing)
+## Admin Portal
+
 * Framework
   * [Masthead](https://ovirt.github.io/ovirt-design/admin-ui/framework/masthead)
   * [Navigation](https://ovirt.github.io/ovirt-design/admin-ui/framework/navigation)
@@ -11,7 +12,8 @@
   * [VM - Dashboard](https://ovirt.github.io/ovirt-design/admin-ui/compute/vm-dashboard)
   * [Migrate VMs](https://ovirt.github.io/ovirt-design/admin-ui/compute/migrate-vms)
 
-## User Portal (https://drive.google.com/drive/folders/1JHhQfi32uZd7V8XpoIcdNIUIZd-tmV9I?usp=sharing)
+## User Portal
+
 * [Virtual Machines List and Details](https://ovirt.github.io/ovirt-design/user-portal/virtual-machine-details)
 * [Edit Virtual Machine](https://ovirt.github.io/ovirt-design/user-portal/edit-virtual-machine)
 * [Snapshots](https://ovirt.github.io/ovirt-design/user-portal/snapshots)
@@ -25,11 +27,12 @@
 * [Responsiveness](https://ovirt.github.io/ovirt-design/user-portal/responsiveness)
 * [User Settings](https://ovirt.github.io/ovirt-design/user-portal/user-settings)
 
-
 ## Common Components
-*  [Object Details](https://ovirt.github.io/ovirt-design/common/object-details)
 
-## PatternFly 4 (https://www.patternfly.org/v4/)
+* [Object Details](https://ovirt.github.io/ovirt-design/common/object-details)
+
+## PatternFly 4 (https://v4-archive.patternfly.org/v4/)
+
 * Admin Portal
   * [Masthead and Vertical Navigation](https://ovirt.github.io/ovirt-design/admin-ui/patternfly4/masthead-and-vertical-navigation)
 
@@ -40,11 +43,11 @@
   * [VM Dashboard](https://ovirt.github.io/ovirt-design/user-portal/patternfly4/vm-dashboard-pf4)
   * [Masthead](https://ovirt.github.io/ovirt-design/user-portal/patternfly4/mastheadpf4)
 
-## User Research 
-* Admin Portal
-  * [Baseline Usability Test](https://ovirt.github.io/ovirt-design/admin-ui/user-research/admin-portal-baseline-usability-test)  
-  * [Table Survey](https://ovirt.github.io/ovirt-design/admin-ui/user-research/table-survey) 
-  * [QE Study](https://ovirt.github.io/ovirt-design/admin-ui/user-research/QE-study) 
-* User Portal
-  * [Baseline Usability Test](https://ovirt.github.io/ovirt-design/user-portal/user-research/user-portal-baseline-usability-test) 
+## User Research
 
+* Admin Portal
+  * [Baseline Usability Test](https://ovirt.github.io/ovirt-design/admin-ui/user-research/admin-portal-baseline-usability-test)
+  * [Table Survey](https://ovirt.github.io/ovirt-design/admin-ui/user-research/table-survey)
+  * [QE Study](https://ovirt.github.io/ovirt-design/admin-ui/user-research/QE-study)
+* User Portal
+  * [Baseline Usability Test](https://ovirt.github.io/ovirt-design/user-portal/user-research/user-portal-baseline-usability-test)
